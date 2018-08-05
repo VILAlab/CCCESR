@@ -1,4 +1,4 @@
-# Facial Patches-Based Canonical Correlation Embeddings for Face Hallucination
+# Canonical Correlation Embeddings with Patch Clustering for Face Hallucination
 
 We run this script on Matlab 2017a and Windows 10.
 
